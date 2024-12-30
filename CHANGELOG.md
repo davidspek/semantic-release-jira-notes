@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/davidspek/semantic-release-jira-notes/compare/v1.0.0...v1.0.1) (2024-12-30)
+
+
+### Bug Fixes
+
+* npm pkg ([a092f86](https://github.com/davidspek/semantic-release-jira-notes/commit/a092f86aa1905ca677f80dfdfaa69f9952ac741f))
+
 # 1.0.0 (2024-12-30)
 
 
