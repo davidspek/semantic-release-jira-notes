@@ -64,7 +64,7 @@ pnpm add --save-dev @davidspekorg/semantic-release-jira-notes
   "plugins": [
     "@semantic-release/commit-analyzer",
     ["semantic-release-jira-notes", {
-      "jiraHost": "iamludal.atlassian.net",
+      "jiraHost": "davidspek.atlassian.net",
       "ticketPrefixes": ["ATP", "OMS"]
     }]
     "@semantic-release/git",
@@ -82,7 +82,7 @@ You can also use options defined by [@semantic-release/release-notes-generator](
   "plugins": [
     "@semantic-release/commit-analyzer",
     ["semantic-release-jira-notes", {
-      "jiraHost": "iamludal.atlassian.net",
+      "jiraHost": "davidspek.atlassian.net",
       "preset": "conventionalcommits",
       "presetConfig": {
         "types": [
