@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/davidspek/semantic-release-jira-notes/compare/v1.0.2...v1.1.0) (2024-12-30)
+
+
+### Features
+
+* bump dependencies ([807b1ac](https://github.com/davidspek/semantic-release-jira-notes/commit/807b1ac4c07d6a9f7415e8f199e172f4b41a8279))
+
 ## [1.0.2](https://github.com/davidspek/semantic-release-jira-notes/compare/v1.0.1...v1.0.2) (2024-12-30)
 
 
