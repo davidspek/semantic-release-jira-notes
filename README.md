@@ -43,11 +43,11 @@ For each JIRA issue detected in the release notes, it will add a link that bring
 
 ```bash
 # npm
-npm install --save-dev semantic-release-jira-notes
+npm install --save-dev @davidspekorg/semantic-release-jira-notes
 # yarn
-yarn add --dev semantic-release-jira-notes
+yarn add --dev @davidspekorg/semantic-release-jira-notes
 # pnpm
-pnpm add --save-dev semantic-release-jira-notes
+pnpm add --save-dev @davidspekorg/semantic-release-jira-notes
 ```
 
 ### Inputs

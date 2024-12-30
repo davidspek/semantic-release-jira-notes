@@ -9,22 +9,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo 📥
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up node 🔧
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
 
       - name: Semantic Release 🚀
         id: semantic-release
-        uses: cycjimmy/semantic-release-action@v3.0.0
+        uses: cycjimmy/semantic-release-action@v4
         with:
+          semantic_version: 24.2.0
           extra_plugins: |
-            @semantic-release/commit-analyzer@9.0.2
-            @semantic-release/release-notes-generator@10.0.3
-            @semantic-release/npm@9.0.1
-            @semantic-release/changelog@6.0.1
-            @semantic-release/github@8.0.4
-            @semantic-release/git@10.0.1
+            @semantic-release/commit-analyzer
+            @semantic-release/release-notes-generator
+            @semantic-release/npm
+            @semantic-release/changelog
+            @semantic-release/github
+            @semantic-release/git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
