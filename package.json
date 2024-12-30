@@ -7,13 +7,16 @@
   "description": "Semantic Release plugin to add JIRA issues link to the release notes",
   "main": "src/index.js",
   "type": "module",
-  "author": "davidspek",
+  "author": "David van der Spek <28541758+davidspek@users.noreply.github.com>",
   "homepage": "https://github.com/davidspek/semantic-release-jira-notes",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/davidspek/semantic-release-jira-notes.git"
   },
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "jira",
     "semantic-release",
