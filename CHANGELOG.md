@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/davidspek/semantic-release-jira-notes/compare/v1.0.1...v1.0.2) (2024-12-30)
+
+
+### Bug Fixes
+
+* set public access ([fcf6251](https://github.com/davidspek/semantic-release-jira-notes/commit/fcf6251c88f391085b93498a1a7f44cecff08933))
+
 ## [1.0.1](https://github.com/davidspek/semantic-release-jira-notes/compare/v1.0.0...v1.0.1) (2024-12-30)
 
 
