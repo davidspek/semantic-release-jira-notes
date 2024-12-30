@@ -9,7 +9,10 @@
   "type": "module",
   "author": "davidspek",
   "homepage": "https://github.com/davidspek/semantic-release-jira-notes",
-  "repository": "https://github.com/davidspek/semantic-release-jira-notes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidspek/semantic-release-jira-notes.git"
+  },
   "license": "MIT",
   "keywords": [
     "jira",
