@@ -1,6 +1,6 @@
 {
   "name": "@davidspekorg/semantic-release-jira-notes",
-  "version": "4.0.0",
+  "version": "1.0.0",
   "engines": {
     "node": ">=18"
   },
