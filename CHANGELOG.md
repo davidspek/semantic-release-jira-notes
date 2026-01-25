@@ -1,3 +1,10 @@
+## [4.0.2](https://github.com/iamludal/semantic-release-jira-notes/compare/4.0.1...4.0.2) (2026-01-25)
+
+
+### Bug Fixes
+
+* Use native AggregateError instead of aggregate-error package ([#14](https://github.com/iamludal/semantic-release-jira-notes/issues/14)) ([e358997](https://github.com/iamludal/semantic-release-jira-notes/commit/e3589979ef08554b00ebe8e833d96672e6498fec))
+
 ## [4.0.1](https://github.com/iamludal/semantic-release-jira-notes/compare/4.0.0...4.0.1) (2026-01-25)
 
 
