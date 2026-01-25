@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/iamludal/semantic-release-jira-notes/compare/4.0.0...4.0.1) (2026-01-25)
+
+
+### Bug Fixes
+
+* **RangeError:** Invalid time value from conventional-changelog-writer ([#13](https://github.com/iamludal/semantic-release-jira-notes/issues/13)) ([5e7b92d](https://github.com/iamludal/semantic-release-jira-notes/commit/5e7b92d62a3cf85be396b5fcb36903dbfa58f3cd))
+
 # [4.0.0](https://github.com/iamludal/semantic-release-jira-notes/compare/3.0.0...4.0.0) (2024-05-28)
 
 
