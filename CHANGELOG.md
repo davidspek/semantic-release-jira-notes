@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/davidspek/semantic-release-jira-notes/compare/v1.1.1...v1.1.2) (2026-08-19)
+
+
+### Bug Fixes
+
+* update node to 24 ([0820f31](https://github.com/davidspek/semantic-release-jira-notes/commit/0820f31da4ffb5fcb3d30f5f971a645a14a9a432))
+
 ## [1.1.1](https://github.com/davidspek/semantic-release-jira-notes/compare/v1.1.0...v1.1.1) (2026-08-19)
 
 
