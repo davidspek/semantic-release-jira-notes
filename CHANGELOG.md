@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/davidspek/semantic-release-jira-notes/compare/v1.1.0...v1.1.1) (2026-08-19)
+
+
+### Bug Fixes
+
+* cleanup deps ([6232e88](https://github.com/davidspek/semantic-release-jira-notes/commit/6232e8850f182434e77b4aefcc52f7781115ae5c))
+* **RangeError:** Invalid time value from conventional-changelog-writer ([#13](https://github.com/davidspek/semantic-release-jira-notes/issues/13)) ([5e7b92d](https://github.com/davidspek/semantic-release-jira-notes/commit/5e7b92d62a3cf85be396b5fcb36903dbfa58f3cd))
+* Use native AggregateError instead of aggregate-error package ([#14](https://github.com/davidspek/semantic-release-jira-notes/issues/14)) ([e358997](https://github.com/davidspek/semantic-release-jira-notes/commit/e3589979ef08554b00ebe8e833d96672e6498fec))
+
 # [1.1.0](https://github.com/davidspek/semantic-release-jira-notes/compare/v1.0.2...v1.1.0) (2024-12-30)
 
 
