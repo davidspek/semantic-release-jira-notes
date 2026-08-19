@@ -24,18 +24,15 @@
     "changelog"
   ],
   "peerDependencies": {
-    "semantic-release": "^24.2.0",
-    "@semantic-release/release-notes-generator": "^14.0.2",
     "@semantic-release/error": "4.0.0",
-    "aggregate-error": "^5.0.0"
+    "@semantic-release/release-notes-generator": "^14.1.1"
   },
   "scripts": {
     "prettier": "prettier --write src/**/*.js"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
-    "@semantic-release/release-notes-generator": "^14.0.2",
-    "@semantic-release/error": "4.0.0",
-    "aggregate-error": "^5.0.0"
+    "@semantic-release/release-notes-generator": "^14.1.1",
+    "@semantic-release/error": "4.0.0"
   }
 }
